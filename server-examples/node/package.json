@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {},
   "devDependencies": {
-    "express": "~3.5.0",
+    "express": "~4.17.1",
     "request": "~2.34.0",
     "bufferlist": "~0.1.0",
     "gm": "~1.14.2"
